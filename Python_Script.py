@@ -10,7 +10,7 @@ FILE_2 = "file2.xlsx"
 SHEET_1 = "Sheet1"
 SHEET_2 = "Sheet1"
  
-# Column that uniquely identifies each record
+# Column that uniquely identifies for each record
 KEY_COLUMN = "Employee ID"
  
 OUTPUT_FILE = "excel_comparison_result.xlsx"
